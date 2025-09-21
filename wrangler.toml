@@ -9,4 +9,4 @@ pages_build_output_dir = "./dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "bygga-app"
-database_id = "a35fa8ee-b773-4bbd-b81e-192af5f6bdc0"
+database_id = "832681a1-9d2f-47e2-bf7f-9c9d0d8c7893"
