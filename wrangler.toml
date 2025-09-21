@@ -1,0 +1,12 @@
+name = "bygga-app"
+compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2025-07-22"
+
+[build]
+command = "bun run build"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bygga-app"
+database_id = "a35fa8ee-b773-4bbd-b81e-192af5f6bdc0"
